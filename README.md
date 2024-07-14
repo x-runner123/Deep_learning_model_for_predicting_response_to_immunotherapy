@@ -8,5 +8,5 @@ A multi-task deep learning model based on comprehensive feature integration and 
   pandas 2.0.1  
   tables 3.8.0  
   scikit-learn (sklearn) 1.2.2  
-## Tip: Our code is only for acadamic researches.
+## Tip: Our code is only for academic researches.
   
