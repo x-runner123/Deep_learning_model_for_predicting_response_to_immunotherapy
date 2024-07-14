@@ -3,10 +3,10 @@ A multi-task deep learning model based on comprehensive feature integration and 
 ## Requred environment
   python 3.8.16
 ## Required module versions
-  numpy 1.24.3
-  torch (pytorch) 2.0.0
-  pandas 2.0.1
-  tables 3.8.0
-  scikit-learn (sklearn) 1.2.2
+  numpy 1.24.3  
+  torch (pytorch) 2.0.0  
+  pandas 2.0.1  
+  tables 3.8.0  
+  scikit-learn (sklearn) 1.2.2  
 ## Tip: Our code is only for acadamic researches.
   
